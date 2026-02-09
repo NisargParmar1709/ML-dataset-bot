@@ -13,9 +13,7 @@ env/
 .venv/
 
 # Project specific
-temp/
-!temp/.keep
-!temp/README.txt
+
 *.zip
 downloads/
 logs/
