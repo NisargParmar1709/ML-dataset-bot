@@ -1,0 +1,25 @@
+# General
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Project specific
+temp/
+!temp/.keep
+!temp/README.txt
+*.zip
+downloads/
+logs/
+
+# IDEs
+.vscode/
+.idea/
